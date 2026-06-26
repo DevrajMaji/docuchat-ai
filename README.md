@@ -1,13 +1,3 @@
----
-title: DocuChat AI
-emoji: 🧠
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-pinned: false
-license: mit
----
-
 # 🧠 DocuChat AI — End-to-End RAG Document Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
